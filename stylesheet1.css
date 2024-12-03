@@ -1,0 +1,37 @@
+#tombol-atas{
+	 position: fixed;
+	 right: 10px;
+	 bottom: 10px;
+	 z-index: 99;
+	 opacity: 0.3;
+	 font-size: 1.5rem;
+}
+
+#tombol-atas:hover{
+	opacity: 2;
+}
+
+#tombol-atas a{
+	text-decoration: none;
+	color: blue;
+}
+
+#kontak-kami td{
+	padding-right: 10px;
+	vertical-align: top;
+}
+
+#kontak-kami a{
+	text-decoration: none;
+	font-weight: bold;
+	color: darkgoldenrod;
+}
+
+.card:hover{
+	transform: scale(1.03);
+}
+
+footer{
+	margin-top: 40px;
+	text-align: center;
+}
